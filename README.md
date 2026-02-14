@@ -18,10 +18,10 @@ Our system automates the 70% GHG reduction saving formula mandated by the EU:
 
 $$Saving = \left(1 - \frac{E_{total}}{94.0}\right) \times 100\%$$
 
-## 🚀 2026 Strategic Roadmap
+##  2026 Strategic Roadmap
 * **Phase 1 (Current):** e-Residency Acquisition & Minimal Viable Product (MVP) testing.
 * **Phase 2:** Integration with Estonian Smart Grid APIs (Tallinn/Muuga Port pilots).
 * **Phase 3:** Operational relocation to Estonia via the **Startup Visa** program.
 
-## 📄 License
+##  License
 This project is licensed under the **MIT License**.
